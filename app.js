@@ -32,3 +32,4 @@ function displayWeather(data) {
     document.getElementById('humidity').textContent = `Humidity: ${data.main.humidity}%`;
     document.getElementById('windSpeed').textContent = `Wind Speed: ${data.wind.speed} km/h`;
 }
+gzyxmzyylgkvmzkhhkylhlhlhlkgys
